@@ -1,4 +1,6 @@
 #ifndef	__HMI_CONFIG_H
+#define	__HMI_CONFIG_H
+
 #include "stm32f10x.h"
 #include "I2C_EEPROM.h"
 //extern u8 Commu_addr;
